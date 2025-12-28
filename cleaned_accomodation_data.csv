@@ -1,0 +1,30 @@
+,Name,Accomodation_Type,Monthly_Rent,Distance_km,Commute_Time_min,Food_Provided,Internet_Quality,Room_Sharing,Privacy_Level,Cleanliness_Satisfaction,Noise_Level,Overall_Satisfaction,Value_Score,Convenience_Score,Amenity_Score
+0,Aryan Panwar,Hostel,10000,0.1,2,1,5,Triple,3,4,2,4,0.4,4.75,4.0
+1,Anshul Choudhary,Hostel,10000,0.1,1,1,4,Triple,5,5,2,5,0.5,4.85,4.666666666666667
+2,Lavish Gill,Flat,12000,1.5,10,0,5,Private,5,2,1,3,0.25,3.25,4.0
+3,Akshit Nagar,PG,4500,0.5,5,1,2,Double,3,1,3,3,0.6666666666666666,4.25,2.0
+4,SHUBH kumar ,Flat,10000,2.0,15,1,4,Double,4,4,1,4,0.4,2.5,4.0
+5,Aarav Sharma,Flat,14345,1.46,17,0,1,Private,3,3,2,4,0.2788428023701638,2.57,2.3333333333333335
+6,Vivaan Patel,Flat,18500,3.66,36,0,1,Private,3,1,1,5,0.2702702702702703,-0.4299999999999997,1.6666666666666667
+7,ADITYA MEHRA,PG,7500,0.76,9,1,2,Triple,3,4,5,3,0.4,3.7199999999999998,3.0
+8,Rohan Verma,Flat,19580,3.68,36,1,5,Private,5,4,2,4,0.2,-0.4400000000000004,4.666666666666667
+9,Dev Joshi,PG,8500,0.64,10,1,3,Private,4,1,2,4,0.47058823529411764,3.6799999999999997,2.6666666666666665
+10,Aryan Singh ,Hostel,10000,0.3,2,0,4,Triple,3,4,4,4,0.4,4.65,3.6666666666666665
+11,Om Mishra,Hostel,12000,0.2,3,1,4,Double,4,4,3,4,0.3333333333333333,4.6,4.0
+12,Siddharth,PG,7600,1.2,8,1,3,Private,5,1,4,3,0.39473684210526316,3.6,3.0
+13,jatin srivastava,Hostel,10000,0.2,3,1,4,Triple,4,4,3,5,0.5,4.6,4.0
+14,Aayush Tiwari,Hostel,13000,0.3,4,1,5,Private,5,5,1,5,0.38461538461538464,4.45,5.0
+15,Mehul Choudhary,Flat,13000,2.5,12,0,5,Double,4,3,3,4,0.3076923076923077,2.55,4.0
+16,Sahil Jawla,Flat,13000,2.5,12,0,5,Double,4,3,3,4,0.3076923076923077,2.55,4.0
+17,Praveen Choudhary,PG,3500,1.2,10,0,1,Private,5,2,2,4,1.1428571428571428,3.4,2.6666666666666665
+18,Mayank Tomar,PG,4500,0.9,7,0,4,Private,4,2,2,4,0.8888888888888888,3.8499999999999996,3.3333333333333335
+19,Abhinav Rai,Hostel,10000,0.3,2,1,4,Triple,3,3,3,3,0.3,4.65,3.3333333333333335
+20,Abhishek Yadav,PG,6500,2.1,20,1,2,Double,4,2,4,3,0.46153846153846156,1.9500000000000002,2.6666666666666665
+21,Aishwarya,Hostel,10000,0.2,2,1,5,Triple,2,4,2,2,0.2,4.7,3.6666666666666665
+22,Ghantava Thakran,Hostel,10000,0.2,3,1,5,Triple,3,4,3,5,0.5,4.6,4.0
+23,Keshav Tyagi,Hostel,10000,0.35,3,1,4,Triple,3,3,5,2,0.2,4.525,3.3333333333333335
+24,Vansh Sharma,PG,4500,1.2,15,0,1,Private,5,4,1,4,0.8888888888888888,2.9,3.3333333333333335
+25,Suraj Singh ,PG,5000,1.0,10,1,2,Private,3,2,4,2,0.4,3.5,2.3333333333333335
+26,Rishabh Pal,PG,6500,2.0,20,1,2,Double,2,1,2,3,0.46153846153846156,2.0,1.6666666666666667
+27,Pratham Saxena,Hostel,10000,0.25,3,1,4,Triple,3,5,4,2,0.2,4.575,4.0
+28,Lakshay Tyagi,Hostel,10000,0.2,2,1,5,Triple,2,5,5,5,0.5,4.7,4.0
